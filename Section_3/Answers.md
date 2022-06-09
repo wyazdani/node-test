@@ -1,0 +1,3 @@
+5. Error First callback: NodeJS error-first-callback function return error in the first argument and success and data in the next argument.
+6. fs.readSync and fs.read: NodeJS fs.readSync returns results after completing read operation (means block next code execution until read operation completes) however fs.read allows next lines of code to be executed while read operation works in the background (asynchronous call)
+7. Whenever the next block of code need to get data from another server or database on the same server or read file etc. 

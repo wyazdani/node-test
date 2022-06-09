@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1ceb8c95-736f-4da3-86d9-86d55893b38a",
+        "max_weight": 8,
+        "contents": [{
+        "type": "apple",
+        "color": "green",
+        "weight": 1.5
+        }, {
+        "type": "apple",
+        "color": "red",
+        "weight": 1
+        }, {
+        "type": "pear",
+        "color": "green",
+        "weight": 2.5
+        }]
+    }
+]
